@@ -2,7 +2,6 @@
 
 **Author: Julia Podsadna**
 
----
 
 ## Project Configuration
 
