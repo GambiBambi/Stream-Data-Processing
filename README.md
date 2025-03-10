@@ -2,20 +2,6 @@
 
 **Author: Julia Podsadna**
 
-## Table of Contents
-1. Project Configuration
-2. Environment Setup
-3. Data Stream Production, Processing, and Storage
-4. Retrieving Processing Results
-5. Resetting the Environment
-6. Producer and Initialization Scripts
-7. Real-Time Data Image Maintenance - Transformations
-8. Real-Time Data Image Maintenance - Mode A Handling
-9. Real-Time Data Image Maintenance - Mode C Handling
-10. Data Stream Processing Program - Execution Scripts
-11. Database Connection and Storage
-12. Features of the Real-Time Data Image Storage
-
 ---
 
 ## Project Configuration
